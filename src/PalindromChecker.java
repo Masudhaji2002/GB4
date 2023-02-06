@@ -1,3 +1,5 @@
+// Дан Deque состоящий из последовательности цифр.
+// Необходимо проверить, что последовательность цифр является палиндромом
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
